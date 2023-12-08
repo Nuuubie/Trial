@@ -1,0 +1,569 @@
+[
+    {
+        "client_msg_id": "9b192ac1-4565-421c-bdd4-06863d5c78b9",
+        "type": "message",
+        "text": "#495137\n<@U03A3DHJL79> Refund request is in pending status , Kindly connect with the cx on priority .\nb1fc955f-6a2a-4f29-8c82-4c65777110cd-aameena-afroj\nCC: <@U02LYRKH3QT> <@U03Q70ZP9J6>",
+        "user": "U05RR618FK4",
+        "ts": "1698892485.888699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4DnNc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "color",
+                                "value": "#495137"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03A3DHJL79"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Refund request is in pending status , Kindly connect with the cx on priority .\nb1fc955f-6a2a-4f29-8c82-4c65777110cd-aameena-afroj\nCC: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02LYRKH3QT"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q70ZP9J6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "TK582A0A1",
+        "user_team": "TK582A0A1",
+        "source_team": "TK582A0A1",
+        "user_profile": {
+            "avatar_hash": "35ef3b1bef17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043756640770_35ef3b1bef174d8b6200_72.jpg",
+            "first_name": "Stuti",
+            "real_name": "Stuti Tiwary 3823",
+            "display_name": "",
+            "team": "TK582A0A1",
+            "name": "stuti.tiwary_3823",
+            "is_restricted": true,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a0e65ce2-1e16-4253-b958-1a13c3a6b520",
+        "type": "message",
+        "text": "#499540\n<@U03Q70ZP9J6> Refund request is in pending status , Kindly connect with the cx on priority .\n<mailto:chaitu_ncr@yahoo.co.in|chaitu_ncr@yahoo.co.in>\nCC: <@U02LYRKH3QT>",
+        "user": "U05RR618FK4",
+        "ts": "1698894195.674019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lbM1O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "color",
+                                "value": "#499540"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q70ZP9J6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Refund request is in pending status , Kindly connect with the cx on priority .\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:chaitu_ncr@yahoo.co.in",
+                                "text": "chaitu_ncr@yahoo.co.in",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nCC: "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U02LYRKH3QT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "TK582A0A1",
+        "user_team": "TK582A0A1",
+        "source_team": "TK582A0A1",
+        "user_profile": {
+            "avatar_hash": "35ef3b1bef17",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-10-16\/6043756640770_35ef3b1bef174d8b6200_72.jpg",
+            "first_name": "Stuti",
+            "real_name": "Stuti Tiwary 3823",
+            "display_name": "",
+            "team": "TK582A0A1",
+            "name": "stuti.tiwary_3823",
+            "is_restricted": true,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4bacc9d6-ca48-45c6-92f8-73e8b2eafdcd",
+        "type": "message",
+        "text": "Its pending for Approval. Approval will take time.",
+        "user": "U04JYHPSLM7",
+        "ts": "1698901919.082579",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mzutf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Its pending for Approval. Approval will take time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "TK582A0A1",
+        "user_team": "TK582A0A1",
+        "source_team": "TK582A0A1",
+        "user_profile": {
+            "avatar_hash": "3bea71026a30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-09-27\/5952225534246_3bea71026a307d5ed588_72.jpg",
+            "first_name": "Surekha",
+            "real_name": "Surekha Kumari",
+            "display_name": "",
+            "team": "TK582A0A1",
+            "name": "t.1618641",
+            "is_restricted": true,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698406259.614509",
+        "parent_user_id": "U04US1B3QHJ"
+    },
+    {
+        "client_msg_id": "64e6965a-5b11-44ff-b550-c712c378531b",
+        "type": "message",
+        "text": "<@U03RURR1ZQC> Please connect with parent and update the status",
+        "user": "U043KU474LU",
+        "ts": "1698903732.178999",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M3OJn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03RURR1ZQC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Please connect with parent and update the status"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "TK582A0A1",
+        "user_team": "TK582A0A1",
+        "source_team": "TK582A0A1",
+        "user_profile": {
+            "avatar_hash": "820c80fbe660",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-04-12\/5112152462737_820c80fbe6608de8fdd1_72.jpg",
+            "first_name": "Chetan",
+            "real_name": "Chetan Kumar Singh",
+            "display_name": "Chetan Kumar Singh",
+            "team": "TK582A0A1",
+            "name": "chetan.kumar",
+            "is_restricted": true,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697626988.699509",
+        "parent_user_id": "U04US1B3QHJ"
+    },
+    {
+        "client_msg_id": "ed78ed6e-ca99-4fac-9e56-fcfa57f04507",
+        "type": "message",
+        "text": "<mailto:surabhimendiratta1984@gmail.com|surabhimendiratta1984@gmail.com>\nrefund - pending for approval\n03\/10\/2023\n<@U04V736R3N1> parent is calling every day, kindly connect ASAP.",
+        "user": "U04US1B3QHJ",
+        "ts": "1698903949.899359",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kXdUa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:surabhimendiratta1984@gmail.com",
+                                "text": "surabhimendiratta1984@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nrefund - pending for approval\n03\/10\/2023\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04V736R3N1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " parent is calling every day, kindly connect ASAP."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "TK582A0A1",
+        "user_team": "TK582A0A1",
+        "source_team": "TK582A0A1",
+        "user_profile": {
+            "avatar_hash": "g845be6bd524",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/845be6bd524920ecd8bd39841ade68e0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Yashaswini",
+            "real_name": "Yashaswini N",
+            "display_name": "",
+            "team": "TK582A0A1",
+            "name": "yashaswini.n",
+            "is_restricted": true,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U04V736R3N1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5869db7-b251-4198-aefb-6f8b3ac30c28",
+        "type": "message",
+        "text": "<mailto:praveenr2001@gmail.com|praveenr2001@gmail.com>\n9b5c82fd-ceab-4d95-b4cd-199629738960-mrinaal-p\n*Refund pending for approval*\n<@U056MPTV0TV> Cx wants to connect with you at the earliest",
+        "user": "U05F8J659S7",
+        "ts": "1698904167.804039",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WEwjs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:praveenr2001@gmail.com",
+                                "text": "praveenr2001@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n9b5c82fd-ceab-4d95-b4cd-199629738960-mrinaal-p\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Refund pending for approval",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U056MPTV0TV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Cx wants to connect with you at the earliest"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "TK582A0A1",
+        "user_team": "TK582A0A1",
+        "source_team": "TK582A0A1",
+        "user_profile": {
+            "avatar_hash": "8d78a05e6d4e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-05\/5526265254470_8d78a05e6d4eb47d50e0_72.jpg",
+            "first_name": "Akanksha",
+            "real_name": "Akanksha Singh 2",
+            "display_name": "",
+            "team": "TK582A0A1",
+            "name": "akanksha.singh_2",
+            "is_restricted": true,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U05F8J659S7",
+            "ts": "1698905265.000000"
+        },
+        "thread_ts": "1698904167.804039",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1698927886.751589",
+        "reply_users": [
+            "U056MPTV0TV",
+            "U04U0H5DEKU"
+        ],
+        "replies": [
+            {
+                "user": "U056MPTV0TV",
+                "ts": "1698911639.981009"
+            },
+            {
+                "user": "U04U0H5DEKU",
+                "ts": "1698927555.462519"
+            },
+            {
+                "user": "U056MPTV0TV",
+                "ts": "1698927886.751589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "06f19f2a-bfc4-4239-81d3-7e2651447299",
+        "type": "message",
+        "text": "<@U02PMPS0VQ9> cx will go legally as the refund is not getting processed.\nFibe is connecting with cx regarding this months Emi and she want to get the refund processed today.\n\n<@U03Q70ZP9J6> Please assist",
+        "user": "U048A9YAPC1",
+        "ts": "1698904652.776839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dy16s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02PMPS0VQ9"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cx will go legally as the refund is not getting processed.\nFibe is connecting with cx regarding this months Emi and she want to get the refund processed today.\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q70ZP9J6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Please assist"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "TK582A0A1",
+        "user_team": "TK582A0A1",
+        "source_team": "TK582A0A1",
+        "user_profile": {
+            "avatar_hash": "g8db0bbeab30",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8db0bbeab30f9d1aaec638b23c46eeb0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Damini",
+            "real_name": "Damini Gadoo",
+            "display_name": "",
+            "team": "TK582A0A1",
+            "name": "damini.gadoo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1698304100.010579",
+        "parent_user_id": "U048A9YAPC1"
+    },
+    {
+        "client_msg_id": "c3309f80-0c3a-46e3-b915-0df9ae9e1e11",
+        "type": "message",
+        "text": "The customer needs an update on refund , Please check <@U05F1EMQ9GA> &lt; 468129 &gt;  <@U03Q70ZP9J6> fyr",
+        "user": "U05LS8FPUMC",
+        "ts": "1698905279.646279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JLTQS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The customer needs an update on refund , Please check "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U05F1EMQ9GA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " < 468129 >  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03Q70ZP9J6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fyr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "TK582A0A1",
+        "user_team": "TK582A0A1",
+        "source_team": "TK582A0A1",
+        "user_profile": {
+            "avatar_hash": "g1927972e7ad",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1927972e7ad954b45f07f7eb5f736d16.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Samra",
+            "real_name": "Samra Mehreen",
+            "display_name": "",
+            "team": "TK582A0A1",
+            "name": "samra.mehreen",
+            "is_restricted": true,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cde0d204-2271-4dfc-a990-d15bb50d664e",
+        "type": "message",
+        "text": "<@U043KU474LU> connected",
+        "user": "U03RURR1ZQC",
+        "ts": "1698905366.921369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uQA1X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U043KU474LU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " connected"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "TK582A0A1",
+        "user_team": "TK582A0A1",
+        "source_team": "TK582A0A1",
+        "user_profile": {
+            "avatar_hash": "g00cfd5e2454",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/00cfd5e2454e876965987372e2430266.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Sreelakshmy",
+            "real_name": "Sreelakshmy K",
+            "display_name": "Sreelakshmy K",
+            "team": "TK582A0A1",
+            "name": "sreelakshmy.k",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1697626988.699509",
+        "parent_user_id": "U04US1B3QHJ",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U043KU474LU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "795e32ff-0af6-42e2-8c76-3b02975a5d1a",
+        "type": "message",
+        "text": "<@U03Q70ZP9J6> Here the case is approved but they are facing financial issues and are unable to pay EMI. The number of sessions are confirmed with the parents already. The parent has been calling me since morning and asking me to pay the amount this month.",
+        "user": "U02PMPS0VQ9",
+        "ts": "1698906225.982229",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cKexK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03Q70ZP9J6"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here the case is approved but they are facing financial issues and are unable to pay EMI. The number of sessions are confirmed with the parents already. The parent has been calling me since morning and asking me to pay the amount this month."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "team": "TK582A0A1",
+        "user_team": "TK582A0A1",
+        "source_team": "TK582A0A1",
+        "user_profile": {
+            "avatar_hash": "a94a7165de22",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2023-07-18\/5616039132528_a94a7165de227c6a1cd9_72.png",
+            "first_name": "Somya",
+            "real_name": "Somya Dwivedi",
+            "display_name": "t.1618015",
+            "team": "TK582A0A1",
+            "name": "t.1618015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02PMPS0VQ9",
+            "ts": "1698908007.000000"
+        },
+        "thread_ts": "1698304100.010579",
+        "parent_user_id": "U048A9YAPC1"
+    }
+]
